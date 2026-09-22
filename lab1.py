@@ -15,4 +15,3 @@ if nameoper == "/":
         print("oshibka")
     itog = cifra / cifradva
 print(itog)
-print("hello")
